@@ -79,4 +79,4 @@ IIT Guwahati
 
 ## 📌 Keywords
 
-Zoom · EdTech · Product Strategy · UX Research · Feature Prioritization · Impact/Effort Matrix · AI Proctoring · Student Engagement
+Product Strategy · UX Research · Feature Prioritization · Impact/Effort Matrix
