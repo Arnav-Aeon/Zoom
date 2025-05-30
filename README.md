@@ -1,4 +1,4 @@
-# 🎓 Enhancing Zoom for Education: Feature Prioritization & UX Strategy
+# 🎓 Enhancing Zoom for Education: Feature Prioritization
 
 ## 📘 Overview
 
